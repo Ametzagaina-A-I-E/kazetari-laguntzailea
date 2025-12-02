@@ -1,0 +1,14 @@
+streamlit
+transformers
+torch
+torchaudio
+pyannote.audio
+openai-whisper
+langchain
+langchain-community
+chromadb
+sentence-transformers
+huggingface_hub
+python-dotenv
+requests
+pydub
